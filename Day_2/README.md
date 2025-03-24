@@ -43,4 +43,4 @@
    git commit -m "Completed Day 2: Django Project Structure"
    git push origin main  # branch name
    ```
-3️⃣ Drop your GitHub link here, and I’ll send Day 3’s challenge! 🚀🔥
+3️⃣ Let's meet on Day 3’s challenge! 🚀🔥
