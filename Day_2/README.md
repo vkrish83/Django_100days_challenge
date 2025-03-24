@@ -25,11 +25,10 @@
 
    ```
 3. Visit ```http://127.0.0.1:8000/hello/``` in your browser.
-📌 What I Learned:
+
+## 📌 What I Learned:
 - Django project structure basics.
-
 - How to modify settings.py and work with BASE_DIR.
-
 - How to add new URL patterns in urls.py.
 ---
 
@@ -42,6 +41,6 @@
    ```bash
    git add .
    git commit -m "Completed Day 2: Django Project Structure"
-   git push origin main  # or your branch name
+   git push origin main  # branch name
    ```
 3️⃣ Drop your GitHub link here, and I’ll send Day 3’s challenge! 🚀🔥
