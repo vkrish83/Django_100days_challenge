@@ -7,11 +7,13 @@ This repository documents my 100-day Django journey, where I build small project
 
 ## 📅 Progress Tracking
 
-| Day  | Task Summary                          | Link to Work |
-|------|--------------------------------------|-------------|
-| 1️⃣  | Set up Django project & virtual env  | [Day 1](./Day_1/) |
-| 2️⃣  | Explored Django project structure   | [Day 2](./Day_2/) |
-| 3️⃣  | Task for Day 3... (To be updated)   | [Day 3](./Day_3/) |
+| Day  | Task Summary                                          | Link to Work |
+|------|------------------------------------------------------|-------------|
+| 1️⃣  | Set up Django project & virtual env                  | [Day 1](./Day_1/) |
+| 2️⃣  | Explored Django project structure                   | [Day 2](./Day_2/) |
+| 3️⃣  | Created a simple Django view and URL mapping       | [Day 3](./Day_3/) |
+| 4️⃣  | Implemented dynamic URL routing with parameters    | [Day 4](./Day_4/) |
+| 5️⃣  | Integrated Django templates and static files       | [Day 5](./Day_5/) |
 
 ---
 
@@ -21,3 +23,4 @@ This repository documents my 100-day Django journey, where I build small project
 ✅ Share progress online  
 
 Follow my progress on this journey! 🚀  
+
