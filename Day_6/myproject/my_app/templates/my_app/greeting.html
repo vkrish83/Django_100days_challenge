@@ -1,0 +1,21 @@
+{% extends "my_app/base.html" %}
+
+{% block title %}{% endblock %}
+
+{% block content %}
+    <p>Hello, {{username}}</p>
+    <p>Current time: {{ current_time}}</p>
+
+    <h2>Fruits List:</h2>
+    <ul>
+        {% for fruit in fruits %}
+            <li> {{ fruit | upper}}</li>
+        {% endfor %}
+    </ul>
+
+    {% if username == "Guest" %}
+        <p>Welcome! Please log in for a personlized experience.</p>
+    {% else %}
+        <p>Glad to have you back, {{ username }}</p>
+    {% endif %}
+{% endblock %}

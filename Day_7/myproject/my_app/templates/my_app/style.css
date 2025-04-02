@@ -1,0 +1,23 @@
+/* Simple styling for the greeting page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+    background: #1806df;
+    padding: 10px;
+}
+
+p {
+    font-size: 18px;
+    color: #555;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
